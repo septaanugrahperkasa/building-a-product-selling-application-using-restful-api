@@ -1,0 +1,3 @@
+# Building-a-Product-Selling-Application-Using-RESTful-API
+
+In this tutorial, you will learn how to build a web application for selling products using Node.js, Express.js, RESTful API, and Mongoose. You will create a backend server that can handle CRUD (create, read, update, delete) operations on product data, as well as authentication and authorization for users. You will also learn how to use Mongoose, a popular MongoDB object modeling tool, to define schemas and models for your data. By the end of this tutorial, you will have a fully functional web application that can be deployed to the cloud or your local machine.
